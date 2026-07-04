@@ -34,21 +34,22 @@ Wir glauben fest daran, dass die besten Algorithmen genau wie eine gute Lake sei
 
 ---
 
-### 🛠 Unsere Tech-Stack-Spezialitäten
+### 📂 Projekt-Übersicht (Öffentliche Repositories)
 
-*   **Bockwurst-Driven Development (BDD):** Erst essen, dann coden, dann den Senffleck vom Git-Commit wischen.
-*   **Glasklare Architektur:** Na ja, fast glasklar. Eher so leicht gelblich-trüb mit Schwebstoffen.
-*   **Continuous Infusion (CI/CD):** Jeder Release wird vor dem Deployment mindestens 24 Stunden in Lake eingelegt.
-
----
-
-### 📂 Projekt-Übersicht
-
-| Projekt | Beschreibung | Status |
+| Repository | Beschreibung | Tech |
 | :--- | :--- | :--- |
-| **`Wurstclicker`** | Hole dir so viele Cookies wie möglich! | 🕹️ In Entwicklung |
-| **`Wurstseite`** | Offizielle Website von Team Wurstwasser. | 🌐 Online (Trüb) |
-| **`Smake`** | Das bekannte Schlangenspiel – vermutlich mit einer feinen Wursthaut. | 🐍 Letzten Monat aktualisiert |
+| **`Matheliebsch`** | Ein Spiel, für Leute die Mathematik mögen. | JavaScript |
+| **`Wurstclicker`** | Hole dir so viele Cookies wie möglich! | JavaScript |
+| **`Wurstseite`** | Offizielle Website von Team Wurstwasser | HTML |
+| **`Wuerstel`** | Errate das geheime Wort mit 5 Buchstaben in sechs Versuchen. | JavaScript |
+| **`Pinball`** | *Keine Beschreibung hinterlegt* | JavaScript |
+| **`Smake`** | *Keine Beschreibung hinterlegt* | C# |
+| **`AIT-Projekt-Easy-Inventory`** | *Keine Beschreibung hinterlegt* | PHP |
+| **`Semiautonomes-Auto`** | *Keine Beschreibung hinterlegt* | C++ |
+| **`SpaceInvaders`** | *Keine Beschreibung hinterlegt* | C# |
+| **`Stromnetz`** | *Keine Beschreibung hinterlegt* | C# |
+| **`miniquiz_aufgabe`** | *Keine Beschreibung hinterlegt* | JavaScript |
+| **`Tuermle-liebsch`** | *Keine Beschreibung hinterlegt* | * k.A. * |
 
 ---
 
