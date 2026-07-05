@@ -9,6 +9,9 @@ env:
   ORG_NAME: "Team-Wurstwasser"
   README_PATH: "profile/README.md"
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
