@@ -25,7 +25,7 @@ jobs:
       run: pip install requests
 
     - name: Skript ausführen
-      run: python update-readme.py
+      run: python .github/update-readme.py
 
     - name: Änderungen committen und pushen
       run: |
