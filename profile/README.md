@@ -59,6 +59,4 @@ Wir glauben fest daran, dass die besten Algorithmen genau wie eine gute Lake sei
 ### 👥 Mitmachen / Beitragen
 
 Du möchtest deinen eigenen Senf dazugeben? 
-Reiche gerne einen **Pull Request** ein! Wir nehmen alles an – solange der Code nicht komplett trocken ist. 
-
-*Hinweis: Vegetarische und vegane Alternativen (Tofu-Wasser-Zweige) sind in den `feature/veggie`-Branches herzlich willkommen!*
+Reiche gerne einen **Pull Request** ein! Wir nehmen alles an – solange der Code nicht komplett trocken ist.
