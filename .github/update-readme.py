@@ -2,8 +2,8 @@ import os
 import requests
 import re
 
-ORG_NAME = os.environ.get("ORG_NAME", "Team-Wurstwasser")
-README_PATH = os.environ.get("README_PATH", "profile/README.md")
+ORG_NAME = os.environ["ORG_NAME"]
+README_PATH = os.environ["README_PATH"]
 
 def fetch_repositories():
     url = f"https://api.github.com/orgs/{ORG_NAME}/repos?per_page=100"
@@ -19,16 +19,16 @@ def fetch_repositories():
 def generate_markdown_table(repos):
     table = [
         "| Repository | Beschreibung | Tech |",
-        "| --- | --- | --- |"
+        "| :--- | :--- | :--- |"
     ]
     
     for repo in repos:
         if repo['name'] == ".github":
             continue
             
-        name = f"**`{repo['name']}`**"
-        description = repo['description'] if repo['description'] else "*Keine Beschreibung hinterlegt*"
-        language = repo['language'] if repo['language'] else "\\* k.A. \\*"
+        name = f"`{repo['name']}`"
+        description = repo['description'] if repo['description'] else "Keine Beschreibung hinterlegt"
+        language = repo['language'] if repo['language'] else "k.A."
         
         table.append(f"| {name} | {description} | {language} |")
         
