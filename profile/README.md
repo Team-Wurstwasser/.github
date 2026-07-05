@@ -41,18 +41,18 @@ Wir glauben fest daran, dass die besten Algorithmen genau wie eine gute Lake sei
 
 | Repository | Beschreibung | Tech |
 | :--- | :--- | :--- |
-| **`Matheliebsch`** | Ein Spiel, für Leute die Mathematik mögen. | JavaScript |
-| **`Wurstclicker`** | Hole dir so viele Cookies wie möglich! | JavaScript |
-| **`Wurstseite`** | Offizielle Website von Team Wurstwasser | HTML |
-| **`Wuerstel`** | Errate das geheime Wort mit 5 Buchstaben in sechs Versuchen. | JavaScript |
-| **`Pinball`** | *Keine Beschreibung hinterlegt* | JavaScript |
-| **`Smake`** | *Keine Beschreibung hinterlegt* | C# |
-| **`AIT-Projekt-Easy-Inventory`** | *Keine Beschreibung hinterlegt* | PHP |
-| **`Semiautonomes-Auto`** | *Keine Beschreibung hinterlegt* | C++ |
-| **`SpaceInvaders`** | *Keine Beschreibung hinterlegt* | C# |
-| **`Stromnetz`** | *Keine Beschreibung hinterlegt* | C# |
-| **`miniquiz_aufgabe`** | *Keine Beschreibung hinterlegt* | JavaScript |
-| **`Tuermle-liebsch`** | *Keine Beschreibung hinterlegt* | * k.A. * |
+| `AIT-Projekt-Easy-Inventory` | Keine Beschreibung hinterlegt | PHP |
+| `Matheliebsch` | Matheliebsch - Ein Spiel, für Leute die Mathematik mögen. | JavaScript |
+| `miniquiz_aufgabe` | Keine Beschreibung hinterlegt | JavaScript |
+| `Pinball` | Keine Beschreibung hinterlegt | JavaScript |
+| `Semiautonomes-Auto` | Keine Beschreibung hinterlegt | C++ |
+| `Smake` | Keine Beschreibung hinterlegt | C# |
+| `SpaceInvaders` | Keine Beschreibung hinterlegt | C# |
+| `Stromnetz` | Keine Beschreibung hinterlegt | C# |
+| `Tuermle-liebsch` | Keine Beschreibung hinterlegt | k.A. |
+| `Wuerstel` | Würstel – Errate das geheime Wort mit 5 Buchstaben in sechs Versuchen. | JavaScript |
+| `Wurstclicker` | Wurstclicker - Hole dir so viele Cookies wie möglich! | JavaScript |
+| `Wurstseite` | Offizielle Website von Team Wurstwasser | HTML |
 
 ---
 
