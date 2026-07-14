@@ -10,7 +10,7 @@ permissions:
 jobs:
   lock:
     if: github.event.action == 'closed'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest 
     steps:
       - name: Lock Pull Request ohne Grund
         run: gh pr lock ${{ github.event.pull_request.html_url }}
