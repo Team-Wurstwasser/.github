@@ -1,0 +1,17 @@
+name: Lock closed Pull Requests
+
+on:
+  pull_request:
+    types: [closed]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  lock:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lock Pull Request ohne Grund
+        run: gh pr lock ${{ github.event.pull_request.html_url }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
