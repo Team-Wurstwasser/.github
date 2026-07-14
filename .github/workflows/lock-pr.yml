@@ -1,0 +1,15 @@
+name: Central PR Lock
+
+on:
+  workflow_call:
+
+jobs:
+  lock:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - name: Lock Pull Request ohne Grund
+        run: gh pr lock ${{ github.event.pull_request.html_url }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
