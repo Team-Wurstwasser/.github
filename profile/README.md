@@ -49,7 +49,7 @@ Wir glauben fest daran, dass die besten Algorithmen genau wie eine gute Lake sei
 | `Smake` | Keine Beschreibung hinterlegt | C# |
 | `SpaceInvaders` | Keine Beschreibung hinterlegt | C# |
 | `Stromnetz` | Keine Beschreibung hinterlegt | C# |
-| `Tuermle-liebsch` | Keine Beschreibung hinterlegt | k.A. |
+| `Tuermle-liebsch` | Keine Beschreibung hinterlegt | C# |
 | `Wuerstel` | Würstel – Errate das geheime Wort mit 5 Buchstaben in sechs Versuchen. | JavaScript |
 | `Wurstclicker` | Wurstclicker - Hole dir so viele Cookies wie möglich! | JavaScript |
 | `Wurstseite` | Offizielle Website von Team Wurstwasser | HTML |
