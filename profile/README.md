@@ -22,16 +22,16 @@ Wir glauben fest daran, dass die besten Algorithmen genau wie eine gute Lake sei
 
 <div align="center">
   <a href="https://github.com/Team-Wurstwasser/Wurstseite">
-    <img height="150" src="https://readme-stats-six-ivory-52.vercel.app/api/pin/?username=Team-Wurstwasser&repo=Wurstseite&theme=tokyonight" alt="Wurstseite" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Team-Wurstwasser&repo=Wurstseite&theme=tokyonight" alt="Wurstseite" />
   </a>
   <a href="https://github.com/Team-Wurstwasser/Wurstclicker">
-    <img height="150" src="https://readme-stats-six-ivory-52.vercel.app/api/pin/?username=Team-Wurstwasser&repo=Wurstclicker&theme=tokyonight" alt="Wurstclicker" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Team-Wurstwasser&repo=Wurstclicker&theme=tokyonight" alt="Wurstclicker" />
   </a>
   <a href="https://github.com/Team-Wurstwasser/Smake">
-    <img height="150" src="https://readme-stats-six-ivory-52.vercel.app/api/pin/?username=Team-Wurstwasser&repo=Smake&theme=tokyonight" alt="Smake" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Team-Wurstwasser&repo=Smake&theme=tokyonight" alt="Smake" />
   </a>
   <a href="https://github.com/Team-Wurstwasser/AIT-Projekt-Easy-Inventory">
-    <img height="150" src="https://readme-stats-six-ivory-52.vercel.app/api/pin/?username=Team-Wurstwasser&repo=AIT-Projekt-Easy-Inventory&theme=tokyonight" alt="AIT-Projekt-Easy-Inventory" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Team-Wurstwasser&repo=AIT-Projekt-Easy-Inventory&theme=tokyonight" alt="AIT-Projekt-Easy-Inventory" />
   </a>
 </div>
 
