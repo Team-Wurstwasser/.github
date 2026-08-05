@@ -37,26 +37,7 @@ Wir glauben fest daran, dass die besten Algorithmen genau wie eine gute Lake sei
 
 ---
 
-### 📂 Projekt-Übersicht (Öffentliche Repositories)
-
-| Repository | Beschreibung | Tech |
-| :--- | :--- | :--- |
-| `AIT-Projekt-Easy-Inventory` | Keine Beschreibung hinterlegt | PHP |
-| `Matheliebsch` | Matheliebsch - Ein Spiel, für Leute die Mathematik mögen. | JavaScript |
-| `miniquiz_aufgabe` | Keine Beschreibung hinterlegt | JavaScript |
-| `Pinball` | Keine Beschreibung hinterlegt | JavaScript |
-| `Semiautonomes-Auto` | Keine Beschreibung hinterlegt | C++ |
-| `Smake` | Keine Beschreibung hinterlegt | C# |
-| `SpaceInvaders` | Keine Beschreibung hinterlegt | C# |
-| `Stromnetz` | Keine Beschreibung hinterlegt | C# |
-| `Tuermle-liebsch` | Keine Beschreibung hinterlegt | C# |
-| `Wuerstel` | Würstel – Errate das geheime Wort mit 5 Buchstaben in sechs Versuchen. | JavaScript |
-| `Wurstclicker` | Wurstclicker - Hole dir so viele Cookies wie möglich! | JavaScript |
-| `Wurstseite` | Offizielle Website von Team Wurstwasser | HTML |
-
----
-
 ### 👥 Mitmachen / Beitragen
 
 Du möchtest deinen eigenen Senf dazugeben? 
-Reiche gerne einen **Pull Request** ein! Wir nehmen alles an – solange der Code nicht komplett trocken ist.
+Reiche gerne einen **Pull Request** ein! Wir nehmen vieles an – solange der Code nicht komplett trocken ist.
